@@ -1,0 +1,23 @@
+# 1. Python compiled files (Junk created by Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. Virtual Environments (Never upload these! They are huge)
+venv/
+env/
+.venv/
+.env
+
+# 3. IDE Settings (VS Code & PyCharm configuration files)
+.vscode/
+.idea/
+
+# 4. OS System Files
+.DS_Store
+Thumbs.db
+
+# 5. Project specific (Optional)
+# If you record test videos, ignore them so your repo stays small
+*.mp4
+*.avi
