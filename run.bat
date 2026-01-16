@@ -17,3 +17,4 @@ python src/main.py
 
 ECHO Closing...
 call deactivate
+PAUSE
